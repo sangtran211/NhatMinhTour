@@ -33,22 +33,22 @@ a {
   right: -6px;
 }
 
-.navbar-brand img {
+.navbar-brand svg {
   height: 100px;
   width: 150px;
 }
-
+.navbar-nav{
+}
 .header .navbar-nav .nav-item .nav-link {
   font-size: 20px;
-  color: black;
-}
+  color:#A98A31;}
 
 .header .navbar-nav .nav-item.active .nav-link{
-    color:black;
+    color:#A98A31;
 }
 
 .header .navbar-nav .nav-item .nav-link:hover {
-  color: white;
+  color: #5E605F;
 }
 
 .header .navbar-nav {
